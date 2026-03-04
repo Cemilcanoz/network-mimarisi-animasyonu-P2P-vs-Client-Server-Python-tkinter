@@ -1,3 +1,5 @@
+medium->https://medium.com/@cemilcanoz15/peer-to-peer-p2p-f9c80ede86a4
+
 <img width="1201" height="816" alt="image" src="https://github.com/user-attachments/assets/2115d3c6-24a6-4e18-aed3-593269f5a205" />
 
 Bu Proje Ne Öğretiyor?
